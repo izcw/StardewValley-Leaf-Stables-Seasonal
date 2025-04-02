@@ -1,0 +1,11 @@
+{ 
+  "Name": "[CP] Leaf Stables (Seasonal)",
+  "Author": "izcw",
+  "Version": "1.0.2",
+  "Description": "Add seasonal green leaf stables to your horse, seamlessly blending with the aesthetics of the farm, no longer having to smell dirty stables.",
+  "UniqueID": "izcw.leaf.stables.seasonal",
+  "UpdateKeys": ["Nexus:32857"],
+  "ContentPackFor": {
+      "UniqueID": "Pathoschild.ContentPatcher"
+    }
+}

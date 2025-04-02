@@ -1,0 +1,13 @@
+{
+	"Format": "1.3.0",
+	"Changes": [
+		{
+			"LogName": "stable",
+			"Action": "EditImage",
+			"Target": "Buildings/Stable",
+			"FromFile": "assets/Stable_{{season}}.png",
+			"FromArea": { "X": 0, "Y": 0, "Width": 64, "Height": 96 },
+			"ToArea": { "X": 0, "Y": 0, "Width": 64, "Height": 96 }
+		}
+	]
+}
